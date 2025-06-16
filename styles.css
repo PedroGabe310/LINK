@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background: #000;
+    background: #1d748f4a;
     color: #4e4e4e;
     display: flex;
     justify-content: center;
@@ -21,7 +21,7 @@ body {
     text-align: center;
     width: 100%;
     max-width: 400px;
-    background: rgb(196, 162, 68);
+    background: rgb(205, 205, 205);
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.613);
     padding: 20px;
@@ -55,12 +55,12 @@ body {
 }
 
 .contact-button {
-    background: #000000;
+    background: #1d748f;
     padding: 15px;
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0);
     text-decoration: none;
-    color: rgba(220, 175, 53, 0.851);
+    color: rgba(255, 255, 255, 0.851);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     display: flex;
     align-items: center;
@@ -76,7 +76,7 @@ body {
 .contact-button:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    background: #5e5e5e;
+    background: ##1d748f;
 }
 
 .icon {
@@ -85,7 +85,7 @@ body {
 
 h2 {
     font-size: 1.2rem;
-    color: rgba(220, 175, 53, 0.851);
+    color: #c0c0c0
     margin: 0;
 }
 
@@ -94,7 +94,7 @@ h2 {
     text-align: center;
     width: 100%;
     max-width: 400px;
-    background: rgb(196, 162, 68);
+    background: rgb(205, 205, 205);
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.613);
     padding: 10px;
