@@ -76,7 +76,7 @@ body {
 .contact-button:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    background: ##1d748f;
+    background: #1d748f;
 }
 
 .icon {
@@ -85,7 +85,7 @@ body {
 
 h2 {
     font-size: 1.2rem;
-    color: #c0c0c0
+    color: #c0c0c0;
     margin: 0;
 }
 
